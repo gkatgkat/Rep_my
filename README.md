@@ -1,4 +1,4 @@
 Rep_my
 ======
 
-my first ropository
+My first repository
